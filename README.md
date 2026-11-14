@@ -1,4 +1,4 @@
-# Привет, я Рената 👋
+# Привет, я Фатыхова Рената 👋
 
 **QA Engineer · автоматизация на Java**
 
@@ -71,3 +71,7 @@ Android-тесты onboarding, поиска и открытия статьи в 
 ## Связаться со мной
 
 Telegram: [@renata_fatykhov](https://t.me/renata_fatykhov)
+
+Email: renata.musenova@gmail.com
+
+Телефон: +7 917 240-33-84
