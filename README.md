@@ -28,8 +28,8 @@
 
 [Код и README](https://github.com/RenataFatykhov/tutu) · [Jenkins](https://jenkins.qa.guru/job/tutu/)
 
-UI smoke-тесты туристического сервиса: главная страница, форма поиска,
-шапка, футер, справочная, путеводитель и раздел поездов.
+Пользовательские UI-сценарии туристического сервиса: выбор и обмен городов,
+настройка пассажиров, поиск поездов, справочная и путеводитель.
 
 - Selenide + JUnit 5, действия и проверки вынесены в Page Object.
 - Локальный Chrome и удалённый запуск в Selenoid.
@@ -49,14 +49,14 @@ UI smoke-тесты туристического сервиса: главная 
 
 ### 📱 Mobile · Wikipedia
 
-[Код и README](https://github.com/RenataFatykhov/mobile_tests_local_and_remote)
+[Код и README](https://github.com/RenataFatykhov/mobile_tests_local_and_remote) · [Jenkins](https://jenkins.qa.guru/job/mobile_tests/)
 
 Android-тесты onboarding, поиска и открытия статьи в Wikipedia.
 Дополнительно — iOS smoke-тест приложения UI Elements в BrowserStack.
 
 - Appium + Selenide + JUnit 5, Screen Objects и конфигурация OWNER.
 - Запуск на эмуляторе, реальном Android-устройстве и в BrowserStack.
-- Allure-шаги, скриншоты и XML; видео для облачных сессий.
+- Jenkins, Allure Report и Allure TestOps; скриншоты, XML и видео облачных сессий.
 
 ## Ручное тестирование
 
